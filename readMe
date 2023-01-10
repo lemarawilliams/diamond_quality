@@ -1,0 +1,7 @@
+Before running be sure to change the file path for file in eda.py to where you have DiamondsPrices.csv stored locally.
+
+To run the project you can just run classification.py.
+That should run everything else before it as well.
+
+If that does not work, just run it in this order:
+eda.py, regression.py, classification.py
